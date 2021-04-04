@@ -14,7 +14,6 @@ import random
 import math
 import numpy
 from math import exp
-from myshaders import *
 import datetime
 import copy
 import console
